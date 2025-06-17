@@ -1,1 +1,1 @@
-This is a simple dice rolling program where we can find random dice and its my first project
+This is a simple dice rolling program code where we can find random dice
