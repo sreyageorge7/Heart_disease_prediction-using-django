@@ -1,1 +1,1 @@
-This is a simple dice rolling program code where we can find random dice
+This is a simple heart disease prediction project using machine learning,i tried to use django for running it as a website
